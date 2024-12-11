@@ -28,11 +28,11 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 ![image](https://user-images.githubusercontent.com/103921593/230282876-f4a5afbf-cac1-4648-a1b0-c78840638a8e.png)
 
-# Program :
-
- 
+# Program : 
+![Screenshot 2024-12-11 112610](https://github.com/user-attachments/assets/688c3e3d-4ade-49f0-9403-750174a9a2ff)
 
 # Output : 
+![Screenshot 2024-12-11 112626](https://github.com/user-attachments/assets/aac4706e-4855-4694-bdae-c27a349d41d8)
 
 
 
